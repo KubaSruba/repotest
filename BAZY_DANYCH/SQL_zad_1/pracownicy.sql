@@ -5,7 +5,7 @@ CREATE TABLE premia (
 
 CREATE TABLE dzial (
     id INTEGER PRIMARY KEY,
-    dzialy VARCHAR(40),
+    nazwa VARCHAR(40),
     siedziba VARCHAR(40)
 );
 
