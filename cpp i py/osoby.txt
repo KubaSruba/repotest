@@ -1,0 +1,4 @@
+Kuba,Floras,18
+Marek,Szafa,29
+Ola,Krasoń,12
+,12,2
